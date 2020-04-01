@@ -15,6 +15,7 @@ p2p-peer-address = protontestnet.greymass.com:59876
 p2p-peer-address = p2p-testnet-proton.eosarabia.net:9876
 p2p-peer-address = testnet.proton.eosdetroit.io:1337
 p2p-peer-address = proton-bp.dmail.co:7676
+p2p-peer-address = testnet.proton.lynxsweden.org:59576
 
 ```
 
@@ -267,6 +268,7 @@ List staked/delegated
 
 **Hyperion History**  
 https://testnet.protonchain.com/v2/docs
+https://testnet.proton.lynxsweden.org/v2/docs
     
 
 **Block Explorers**   
